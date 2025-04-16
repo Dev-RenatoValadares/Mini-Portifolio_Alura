@@ -1,4 +1,4 @@
-# Mini-Portifolio_Alura
+# Mini_Portifolio_Dev-Alura
 
 
 Mini portifólio Dev criado apartir da aplicação do conhecimento adiquirido na plataforma Alura com os cursos:
